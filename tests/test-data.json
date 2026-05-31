@@ -1,0 +1,13 @@
+{
+  "createPostPayload": {
+    "title": "Test Post from API",
+    "body": "This is a test post created via API",
+    "userId": 1
+  },
+  "updatePostPayload": {
+    "id": 1,
+    "title": "Updated Post Title",
+    "body": "This is the updated body",
+    "userId": 1
+  }
+}
